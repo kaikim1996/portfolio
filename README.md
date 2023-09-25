@@ -11,7 +11,7 @@ N/A
 
 Screenshot of the portfolio:
 
-![alt text="screenshot of website"](assets/images/portfolio.png)
+![alt text="screenshot of website"](./assets/images/portfolio.png)
 
 
 ## License
